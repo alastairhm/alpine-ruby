@@ -11,7 +11,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of Decembe
 ### Added
 
 * Change log
-* Alpine 3.15 base image
+* Alpine 3.15 base image, Ruby 3.0.4p208
 * Github Action
 
 ### Changed
